@@ -11,4 +11,5 @@ This repository contains some project based on Deep Learning or Neural Networks.
 2. CNN
   * CNN Image Classification with Data Generation
 <br>
+
 ***More Coming Soon***
