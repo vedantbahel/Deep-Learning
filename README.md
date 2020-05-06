@@ -10,6 +10,7 @@ This repository contains some project based on Deep Learning or Neural Networks.
   * Image Classifier
 2. CNN
   * CNN Image Classification with Data Generation
+  * Transfer Learning using Inception V3
 <br>
 
 ***More Coming Soon***
