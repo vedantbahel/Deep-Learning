@@ -11,6 +11,8 @@ This repository contains some project based on Deep Learning or Neural Networks.
 2. CNN
   * CNN Image Classification with Data Generation
   * Transfer Learning using Inception V3
+3. NLP
+  * Basic NLP Tools (Tokenizer- Sequence- Padding)
 <br>
 
 ***More Coming Soon***
